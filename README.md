@@ -21,7 +21,7 @@ Ce script peut être scindé en 3 grandes parties:
 3e partie:
 - Résolution du système linéaire :
     1. Par inversion matricielle en faisant appel à linalg.solve
-    2. Par la méthode de Gauss-Seidel avec une tolérance de 1e-6, max_iter = 1000 et le vecteur initial est un vecteur nul
+    2. Par la méthode de Gauss-Seidel avec une tolérance de 1e-6, max_iter = 1000 et le vecteur initial est le vecteur nul
 - Visualisation de la distribution de température grace à matplotlib
 
 ## Dépendances
