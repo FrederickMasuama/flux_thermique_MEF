@@ -70,7 +70,7 @@ Le script génère une carte de chaleur représentant la distribution de tempér
 ## Licence et documentation
 
 Ce projet a été réalisé avec l'aide: 
-- Des cours magistraux pour la licence 3 Mathématiques de Monsieur Christophe Berton
+- Des cours magistraux d'analyse numérique pour la licence 3 Mathématiques de Monsieur Christophe Berton, Nantes Universdité
 - La chaine You Tube https://www.youtube.com/@FredericBruyeremeca
 - Un code open source de MIT 
 
