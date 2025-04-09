@@ -10,7 +10,7 @@ Dans ce projet nous avons implémenté une solution numérique de l'équation de
 Ce script peut être scindé en 3 grandes parties: 
 
 1re partie: 
-- Implémentation de la méthode itérative de résolution des équation matricielle : Gauss-Seidel
+- Implémentation de la méthode itérative de résolution des équations matricielles : Gauss-Seidel
 - Les paramètres physiques: dimensions de la plaque, valeurs de la source de chaleur et de la conductivité. 
 
 2e partie: 
