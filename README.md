@@ -49,7 +49,7 @@ python script.py
 
 Cela affichera la distribution de température sur la plaque.
 
-Nous avons pris un maillage de 25 X 25 noeuds pour que la rapidité des calculs avec Gauss-Seidel mais n'hésitez pas de prendre plus et utiliser linalg.solve pour plus de rapidité. 
+Nous avons pris un maillage de 25 X 25 noeuds pour la rapidité des calculs avec Gauss-Seidel mais n'hésitez pas de prendre plus et utiliser linalg.solve pour plus de rapidité. 
 Plus il y a des noeuds, plus le rendu de l'image est fluide. 
   
 
